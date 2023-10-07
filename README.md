@@ -1,4 +1,5 @@
-Acha_Dog - Dispositivo de Rastreamento para Coleira de Cachorro
+Nome da aplicação: Acha_Dog - Dispositivo de Rastreamento para Coleira de Cachorro
+__________________________________________________________________________________
 Descrição
 O Acha_Dog é um dispositivo físico destinado a pessoas que desejam rastrear seus cachorros de forma prática, rápida, acessível e flexível.
 Requisitos Funcionais
