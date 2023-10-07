@@ -1,4 +1,4 @@
-# Nome da aplicação: Acha_Dog 🐕
+# Nome da aplicação: Acha_Dog 🌐🐕
 Dispositivo de Rastreamento para Coleira de Cachorro
 __________________________________________________________________________________
 
