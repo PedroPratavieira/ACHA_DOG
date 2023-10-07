@@ -56,3 +56,17 @@ ________________________________________________________________________________
 # Licença
 
 Este projeto de dispositivo de rastreamento para coleira de cachorro, Acha_Dog, está sob a licença [Projeto Integrador SENAI] para regulamentar o uso, distribuição e modificações do software incorporado no dispositivo.
+
+__________________________________________________________________________________
+
+# Exemplo de Funcionamento
+
+Aqui temos um exemplo em funcionamento, nesse caso o dispositivo esta proximo
+![b56948a4-caeb-433d-891f-80c6ce9b8e8c](https://github.com/PedroPratavieira/ACHA_DOG/assets/142109101/91b538a9-2f33-4e65-9e4a-af88413a5595)
+
+Aqui temos o dispositivo em uma distância mediana.
+![581bca84-dbcb-4662-a0fe-f9e1345a9bcc](https://github.com/PedroPratavieira/ACHA_DOG/assets/142109101/2990b892-9268-4d9e-bd0d-0979f47a67aa)
+
+Aqui temos o dispostivo em longa distância 
+![f51c44ad-3061-482d-a075-9c3947b9c6a5](https://github.com/PedroPratavieira/ACHA_DOG/assets/142109101/e0f4bfa4-d1e8-4562-8362-686827b26aae)
+
